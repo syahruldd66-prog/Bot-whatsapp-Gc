@@ -1,0 +1,6 @@
+node_modules/
+session_admin_bot/
+config.json
+afk.json
+*.log
+.env
